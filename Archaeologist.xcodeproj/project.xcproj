@@ -18,6 +18,7 @@
       "children": [
         { "path": "ArchaeologistTests.swift", "target-membership": [ "ArchaeologistTests/compile-sources" ] },
         { "path": "RenderScreenshot.swift" },
+        { "path": "RenderTimeline.swift" },
       ],
     }, {
       "kind": "group",

@@ -30,7 +30,7 @@
 ## Layout
 
 <p align="center">
-  <img src="Screenshot.png" alt="Archaeologist Screenshot" width="850" />
+  <img src="timeline.gif" alt="Archaeologist Timeline Demo" width="850" />
 </p>
 
 The application window is organized into four clean, stacked sections:
